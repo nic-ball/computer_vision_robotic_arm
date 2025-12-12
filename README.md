@@ -10,8 +10,8 @@ A project to design, 3D print and code a robotic arm that can be controlled remo
 
 ## TODO
 
-- [ ] Code Stepper Motor
-- [ ] Code Servo Motors
+- [ ] Code Stepper Motor (Attached to lowest limb for up/down movement)
+- [ ] Code Servo Motors (One is for rotation of base, One for gripper rotation and two for the main trunk vertical movement)
 - [ ] Research Computer Vision
 - [ ] Code Computer Vision
 - [ ] Code Remote Control
